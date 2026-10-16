@@ -1,7 +1,6 @@
 {
   "dependencies": {
     "com.hb.cheat": "https://github.com/MoewMeowH/CustomUnityTools.git?path=Assets/Tools/HB_Cheat",
-    "com.hb.ingameconsole": "https://github.com/MoewMeowH/CustomUnityTools.git?path=Assets/Tools/HB_InGameConsole",
     "com.hb.screenrecorder": "https://github.com/MoewMeowH/CustomUnityTools.git?path=Assets/Tools/HB_ScreenRecorder",
     "com.hb.testframeworkhelper": "https://github.com/MoewMeowH/CustomUnityTools.git?path=Assets/Tools/HB_TestFrameworkHelper",
     "com.unity.ai.assistant": "2.20.0-pre.2",

@@ -7,13 +7,6 @@
       "dependencies": {},
       "hash": "d22291e3f049400a730ce6f7f34ef9e3e642cd5c"
     },
-    "com.hb.ingameconsole": {
-      "version": "https://github.com/MoewMeowH/CustomUnityTools.git?path=Assets/Tools/HB_InGameConsole",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {},
-      "hash": "d22291e3f049400a730ce6f7f34ef9e3e642cd5c"
-    },
     "com.hb.screenrecorder": {
       "version": "https://github.com/MoewMeowH/CustomUnityTools.git?path=Assets/Tools/HB_ScreenRecorder",
       "depth": 0,
