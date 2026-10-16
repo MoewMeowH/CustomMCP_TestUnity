@@ -1,0 +1,66 @@
+﻿# =========================================================================
+# Unity .gitignore
+# =========================================================================
+
+# Unity generated cache & temporary folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecording/
+
+# Visual Studio / Rider / JetBrains IDE files
+.vs/
+.idea/
+.vscode/
+ExportedObj/
+.consulo/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity crash reports & dumps
+sysinfo.txt
+*.stackdump
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+[Tt]humbs.db
+Desktop.ini
+
+# Agent cache
+.agents/
+
+# ETC
+ProjectSettings/TimelineSettings.asset
+
+# 프로젝트 루트 밖 코드를 외부 에이전트 리뷰에 넘길 때 쓰는 임시 사본 (CLAUDE.md "프로젝트 루트 밖의 코드를 리뷰할 때")
+/review_tmp/
+
+# MCP 서버 설정. 기기마다 publish 폴더 절대 경로가 달라 추적하지 않는다 (템플릿: HB_Orchestration project-files/.mcp.example.json)
+/.mcp.json
+/[Dd]ocs/
+
+# Unity 크래시 복구 씬. 에디터가 자동 생성한다
+/[Aa]ssets/_Recovery/
+/[Aa]ssets/_Recovery.meta
