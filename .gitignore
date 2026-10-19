@@ -64,3 +64,7 @@ ProjectSettings/TimelineSettings.asset
 # Unity 크래시 복구 씬. 에디터가 자동 생성한다
 /[Aa]ssets/_Recovery/
 /[Aa]ssets/_Recovery.meta
+
+# 하네스: 서브에이전트 입력 사본 · push 훅 개인 값 (CLAUDE.md 서브에이전트 · 훅 규칙)
+/subagent_in/
+/.claude/push_guard.local.txt
